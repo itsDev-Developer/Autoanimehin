@@ -4,7 +4,7 @@ Telegram bot to search, browse, and download anime from [AnimeDekho](https://ani
 
 Built with **Pyrogram (MTProto)** for **2GB upload/download support**.
 
-## Features
+## Features:
 
 - 🔍 **Search** — Just type any anime name to search
 - 📺 **Browse Series** — Paginated recent series listing
